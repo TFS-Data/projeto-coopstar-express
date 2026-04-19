@@ -74,7 +74,7 @@ npm install
 npm run dev
 ```
 
-Acesse **http://localhost:3000** no navegador.
+
 
 ### Build de produção
 
