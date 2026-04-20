@@ -1,4 +1,4 @@
-### 🔗 [Clique aqui para visualizar o projeto ao vivo](https://projeto-coopstar-express.vercel.app/)
+### 🔗 [Acesse o projeto:](https://projeto-coopstar-express.vercel.app/)
 
 # 🏍️ Coopstar Express — Site Institucional
 
@@ -13,13 +13,7 @@ Landing page profissional da **Coopstar Express**, empresa de motoboys especiali
 
 ## 📌 Objetivo
 
-Este projeto faz parte do meu **portfólio de desenvolvimento Front-end**. O objetivo foi refatorar completamente um site institucional antigo (HTML/jQuery) para uma stack moderna, demonstrando habilidades em:
-
-- **Componentização** com React/Next.js
-- **Design responsivo** e profissional com Tailwind CSS
-- **Animações suaves** com Framer Motion
-- **SEO** e boas práticas de performance
-- **UI/UX focado em conversão** (CTAs estratégicos)
+Projeto desenvolvido com foco em refatoração de aplicação legada para arquitetura moderna, visando performance, escalabilidade e conversão.
 
 ---
 
@@ -135,4 +129,4 @@ projeto-coopstar-express/
 
 Projeto desenvolvido para fins de estudo e portfólio.
 
-Desenvolvido por [TFS Data](https://github.com/TFS-Data).
+Desenvolvido por [TFS Data](https://github.com/TFS-Data) com uso de ferramentas modernas de desenvolvimento assistido por IA
